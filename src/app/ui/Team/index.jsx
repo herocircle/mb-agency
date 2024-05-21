@@ -16,12 +16,12 @@ export default function Team({
         <Div className="cs-member_overlay" />
       </Div>
       <Div className="cs-member_info">
-        <h2 className="cs-member_name">
+        <h2 style={{ color: "#FF4A16" }} className="cs-member_name">
           <Link href="/team/team-details">{memberName}</Link>
         </h2>
-        <Div className="cs-member_designation">{memberDesignation}</Div>
+        <Div style={{ color: "#fff" }} className="cs-member_designation">{memberDesignation}</Div>
       </Div>
-      <Div className="cs-member_social cs-primary_color">
+      <Div style={{ color: "#FF4A16" }} className="cs-member_social cs-primary_color">
         {memberSocial.linkedin && (
           <Link href={memberSocial.linkedin}>
             <Icon icon="fa6-brands:linkedin-in" />
