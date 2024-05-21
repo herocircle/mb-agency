@@ -48,28 +48,29 @@ const funfaceData = [
 // Portfolio Data
 const portfolioData = [
   {
-    title: 'Colorful Art Work',
+    title: 'Resturation Club',
     subtitle: 'See Details',
     href: '/portfolio/portfolio-details',
-    src: '/images/portfolio_1.jpeg',
+    src: '/images/portfolio1.jpeg',
+  },
+
+  {
+    title: 'Resturent club Dashbord',
+    subtitle: 'See Details',
+    href: '/portfolio/portfolio-details',
+    src: '/images/portfolio2.jpeg',
   },
   {
-    title: 'Colorful Art Work',
+    title: 'Riders App',
     subtitle: 'See Details',
     href: '/portfolio/portfolio-details',
-    src: '/images/portfolio_2.jpeg',
+    src: '/images/portfolio3.jpeg',
   },
   {
-    title: 'Colorful Art Work',
+    title: 'Hero App',
     subtitle: 'See Details',
     href: '/portfolio/portfolio-details',
-    src: '/images/portfolio_0.jpg',
-  },
-  {
-    title: 'Colorful Art Work',
-    subtitle: 'See Details',
-    href: '/portfolio/portfolio-details',
-    src: '/images/portfolio_3.jpeg',
+    src: '/images/portfolio4.jpeg',
   },
 ];
 
