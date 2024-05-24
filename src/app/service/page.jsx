@@ -52,13 +52,7 @@ export default function ServicesPage() {
                   <Spacing lg='0' md='30'/>
                 </Div>
                 <Div className='col-lg-3 col-sm-6'>
-                  <Card
-                    title='Digital Marketing'
-                    link='/service/digital-marketing'
-                    src='/images/service_3.jpeg'
-                    alt='Service'
-                  />
-                  <Spacing lg='0' md='30'/>
+
                 </Div>
                 <Div className='col-lg-3 col-sm-6 cs-hidden_mobile'></Div>
                 <Div className='col-lg-3 col-sm-6'>

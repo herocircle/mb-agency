@@ -12,7 +12,7 @@ export default function ContactInfoWidget({withIcon, title}) {
         </li>
         <li>
           {withIcon?<span className='cs-accent_color'><Icon icon="mdi:envelope" /></span>:''}
-          infotech@arino.com
+          moetaz.brayek.eng@gmail.com
         </li>
         <li>
           {withIcon?<span className='cs-accent_color'><Icon icon="mdi:map-marker" /></span>:''}

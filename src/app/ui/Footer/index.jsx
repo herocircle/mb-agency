@@ -27,12 +27,7 @@ const serviceMenu = [
     href: '/service/service-details',
   },
   {
-    title: 'Digital marketing',
-    href: '/service/service-details',
-  },
-  {
     title: 'React development',
-    href: '/service/service-details',
   },
 ];
 
